@@ -26,3 +26,5 @@ Tools
 The handout code does not produce any graphical output by default, but if you'd like to view particular paths, you can call the `show_path` method to produce a plot using matplotlib. If used correctly, a path should be shown that looks something like this:
 
 ![DFS example](media/dfs.png)
+
+Note that latitude and longitude values do correspond to real locations in this data. The node values should match nodes in OpenStreetMap, for example [9585187701](https://www.openstreetmap.org/node/9585187701) is used as the start state in one of the tests.
