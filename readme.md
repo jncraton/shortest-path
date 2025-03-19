@@ -3,6 +3,8 @@ Shortest Path
 
 An exploration of searching graphs for a shortest path
 
+![Shortest path example](https://upload.wikimedia.org/wikipedia/commons/2/23/Dijkstras_progress_animation.gif)
+
 Learning Objectives
 -------------------
 
