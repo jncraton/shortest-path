@@ -27,4 +27,5 @@ The handout code does not produce any graphical output by default, but if you'd 
 
 ![DFS example](media/dfs.png)
 
-Note that latitude and longitude values do correspond to real locations in this data. The node values should match nodes in OpenStreetMap, for example [9585187701](https://www.openstreetmap.org/node/9585187701) is used as the start state in one of the tests.
+Note that latitude and longitude values do correspond to real locations in this data. The node values should match nodes in OpenStreetMap, for example [9585187701](https://www.openstreetmap.org/node/9585187701) is used as the start state in one of the tests. Edges should correspond to walkable paths on campus.
+
